@@ -10,7 +10,7 @@ Installing Node.js
 # check your nodejs version
 # node -v`
 # How to run bot for the first time ?
-══════════════════════════════
+════════════════════════════
 # git clone https://github.com/GalankCreator/AlphatJS
 # cd alphatJS && npm install
 # insert your admin mid in main.js
@@ -22,7 +22,8 @@ Installing Node.js
 
 # Add My ID LINE : fuck.you__
 
-# Thanks To : TΣΔM SLΔCҜβΩT
-#            :HELLO WORLD
-#            :SYN-BOT
-#            :TJ BOT
+# Thanks To
+#           :TΣΔM SLΔCҜβΩT
+#           :HELLO WORLD
+#           :SYN-BOT
+#           :TJ BOT
